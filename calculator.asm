@@ -2,7 +2,7 @@
 .data
 promptMessage1: .asciiz "\n\nEnter the first number: "
 promptMessage2: .asciiz "Enter the second number: "
-operations: .asciiz "\nPress 1 for \"+\",\nPress 2 for \"-\",\nPress 3 for \"*\",\npress 4 for \"/\")\nEnter the operation: "
+operations: .asciiz "\nPress 1 for \"+\",\nPress 2 for \"-\",\nPress 3 for \"*\",\npress 4 for \"/\"\nEnter the operation: "
 resultPrompt: .asciiz "\nThe result is: "
 continueMessage: .asciiz "\nDo you want continue? If you want to continue press any key, otherwise press \"q\" for quit program: "
 errorMessage: .asciiz "this number is not divisible by zero you if you understood this, then you can try another number or quit the program"
