@@ -1,3 +1,4 @@
 # MIPS-Assembly-Calculator
 My First Program at MIPS Assembly
-Goresen Dunyaya Nosh Gelib Insan
+
+Bu Test Ucundu Gelecekde Daha Yaxsi Kalkulyatorlar Duzeltmek Dileyi Ile
